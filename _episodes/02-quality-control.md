@@ -1,5 +1,5 @@
 ---
-title: Assessing read quality  
+title: "Assessing read quality"  
 teaching: 10  
 exercises: 5  
 questions:
