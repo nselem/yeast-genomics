@@ -9,7 +9,7 @@ objectives:
 - "Why study *S. cerevisiae*?"
 - "Understand the data set."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "It is important to record and understand your experiment's metadata."
 ---
 
 ## Background
@@ -67,12 +67,6 @@ Based on the metadata, can you answer the following questions?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-:::::::::::::::::::::::::::::::::::::::: keypoints
-
-- It is important to record and understand your experiment's metadata.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
