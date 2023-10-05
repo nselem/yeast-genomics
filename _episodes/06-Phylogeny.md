@@ -1,21 +1,16 @@
 ---
-title: Running a Phylogenetic tree
-teaching: 30
-exercises: 15
+title: "Running a phylogenetic tree"  
+teaching: 10  
+exercises: 5  
+questions:
+- "How are the sequenced isolates related?."  
+objectives:
+- "Run a phylogenetic tree."
+- "Visualize the result with associated metadata."
+keypoints:
+- "We can build Phylip alignments from multi gvcf."
+- "RaXML runs maximum likelihood phylogenetic trees."
 ---
-
-::::::::::::::::::::::::::::::::::::::: objectives
-
-- Run a phylogenetic tree.
-- Visualize the result with associated metadata.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::: questions
-
-- How are the sequenced isolates related?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Run the phylogenetic tree
 
@@ -52,11 +47,5 @@ To visualize the tree, we can use [Microreact](https://microreact.org/)
 load the .tree output along with the metadata to visualize the results.
 
 
-:::::::::::::::::::::::::::::::::::::::: keypoints
-
-- We can build Phylip alignments from multi gvcf.
-- RaXML runs maximum likelihood phylogenetic trees.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
