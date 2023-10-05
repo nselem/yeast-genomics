@@ -1,22 +1,15 @@
 ---
-title: Assessing Read Quality
-teaching: 30
-exercises: 20
----
-
-::::::::::::::::::::::::::::::::::::::: objectives
-
-- Explain how a FASTQ file encodes per-base quality scores.
-- Interpret a FastQC plot summarizing per-base quality across all reads.
-- Use `for` loops to automate operations on multiple files.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::: questions
-
-- How can I describe the quality of my data?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
+title: Assessing read quality
+teaching: 10
+exercises: 5
+questions:
+- "How can I describe the quality of my data?"
+objectives:
+- "Explain how a FASTQ file encodes per-base quality scores."
+- "Interpret a FastQC plot summarizing per-base quality across all reads."
+- "Use `for` loops to automate operations on multiple files."
+keypoints:
+- "First key point. Brief Answer to questions. (FIXME)"
 
 ## Bioinformatic workflows
 
