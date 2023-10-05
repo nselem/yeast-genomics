@@ -1,22 +1,16 @@
 ---
-title: Background and Metadata
+title: "Background and metadata"
 teaching: 10
 exercises: 5
+questions:
+- "What data are we using?"
+- "Why is this experiment important?"
+objectives:
+- "Why study *S. cerevisiae*?"
+- "Understand the data set."
+keypoints:
+- "First key point. Brief Answer to questions. (FIXME)"
 ---
-
-::::::::::::::::::::::::::::::::::::::: objectives
-
-- Why study *S. cerevisiae*?
-- Understand the data set.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::: questions
-
-- What data are we using?
-- Why is this experiment important?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Background
 
