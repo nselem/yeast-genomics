@@ -1,22 +1,17 @@
 ---
-title: Trimming and Filtering
-teaching: 30
-exercises: 25
+title: "Trimming and Filtering"  
+teaching: 30  
+exercises: 25  
+questions:
+- "How can I get rid of sequence data that does not meet my quality standards?"  
+objectives:
+- "Clean FASTQ reads using Trimmomatic."
+- "Select and set multiple options for command-line bioinformatic tools."
+- " Write `for` loops with two variables."
+keypoints:
+- "The options you set for the command-line tools you use are important!"
+- "Data cleaning is an essential step in a genomics workflow."
 ---
-
-::::::::::::::::::::::::::::::::::::::: objectives
-
-- Clean FASTQ reads using Trimmomatic.
-- Select and set multiple options for command-line bioinformatic tools.
-- Write `for` loops with two variables.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::: questions
-
-- How can I get rid of sequence data that does not meet my quality standards?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Cleaning reads
 
@@ -304,18 +299,5 @@ sequences still contain 3' adapters, it could be important to explore
 other trimming tools like [cutadapt](https://cutadapt.readthedocs.io/en/stable/) to remove these, depending on your
 downstream application. Trimmomatic did pretty well though, and its performance
 is good enough for our workflow.
-
-
-
-:::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::: keypoints
-
-- The options you set for the command-line tools you use are important!
-- Data cleaning is an essential step in a genomics workflow.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
