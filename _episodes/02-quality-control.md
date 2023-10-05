@@ -10,7 +10,7 @@ objectives:
 - "Use `for` loops to automate operations on multiple files."
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
-
+---
 ## Bioinformatic workflows
 
 When working with high-throughput sequencing data, the raw reads you get off of the sequencer will need to pass
