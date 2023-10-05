@@ -31,11 +31,11 @@ We are going to use a country-wide sequencing dataset from *Saccharomyces cerevi
 
 - The experiment was designed to explore the genomic diversity of Saccharomyces yeasts across a megadiverse context that surrounds the culturally and biotechnologically relevant traditional agave fermentations, which are carried on in regions that go from highland forests to lowland deserts. During the sampling, we collected samples from fermentations of other species being carried out in the same distilleries.
 
-- To read the first publications of the project, check out this [article describing a nationwide collection of isolates by Gallegos-Casillas et al. 2023](https://www.biorxiv.org/content/10.1101/2023.07.02.547337v1), and this [paper with the first genomic draft of *Kz. humilis* by Garcia-Ortega et al. 2022](https://journals.asm.org/doi/10.1128/mra.01154-21).
+- To read the first publications of the project, check out this article describing a nationwide collection of isolates [ by Gallegos-Casillas et al. 2023](https://www.biorxiv.org/content/10.1101/2023.07.02.547337v1), and this paper with the first genomic draft of *Kz. humilis* [ by Garcia-Ortega et al. 2022](https://journals.asm.org/doi/10.1128/mra.01154-21).
 
 ### View the metadata
 
-We will be working on sequences from isolates sampled from fermentation tanks used to produce different spirits at the seven producing regions. The metadata file associated with this lesson can be [downloaded directly here]([files/Ecoli_metadata_composite.csv](https://docs.google.com/spreadsheets/d/1mQFl-YEGzwSK77qzT8YL1FSzJ5kfe2ujvHBwST1JY5s/edit?usp=sharing) 
+We will be working on sequences from isolates sampled from fermentation tanks used to produce different spirits at the seven producing regions. The metadata file associated with this lesson can be [downloaded directly here](https://docs.google.com/spreadsheets/d/1mQFl-YEGzwSK77qzT8YL1FSzJ5kfe2ujvHBwST1JY5s/edit?usp=sharing) 
 
 | Column           | Description                                     | 
 | ---------------- | ----------------------------------------------- |
@@ -61,7 +61,7 @@ Based on the metadata, can you answer the following questions?
 
 1. 8 different types of spirits
 2. 11 different states
-3. They will serve as reference
+3. They will serve as references
 
 :::::::::::::::::::::::::
 
