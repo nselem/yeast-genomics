@@ -1,22 +1,16 @@
 ---
-title: Automating a Variant Calling Workflow
-teaching: 30
-exercises: 15
+title: "Automating a Variant Calling Workflow"  
+teaching: 30  
+exercises: 15  
+questions:
+- "How can I make my workflow more efficient and less error-prone?."
+objectives:
+- "Write a shell script with multiple variables."
+- "Incorporate a `for` loop into a shell script."
+keypoints:
+- "We can combine multiple commands into a shell script to automate a workflow."
+- "Use `echo` statements within your scripts to get an automated progress update."
 ---
-
-::::::::::::::::::::::::::::::::::::::: objectives
-
-- Write a shell script with multiple variables.
-- Incorporate a `for` loop into a shell script.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::: questions
-
-- How can I make my workflow more efficient and less error-prone?
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## What is a shell script?
 
 You wrote a simple shell script in a [previous lesson](https://www.datacarpentry.org/shell-genomics/05-writing-scripts) that we used to extract bad reads from our
@@ -457,11 +451,5 @@ you do not, there is a copy in `~/.solutions/wrangling-solutions/trimmed_fastq`.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::: keypoints
-
-- We can combine multiple commands into a shell script to automate a workflow.
-- Use `echo` statements within your scripts to get an automated progress update.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
