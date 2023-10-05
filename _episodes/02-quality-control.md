@@ -1,9 +1,9 @@
 ---
-title: Assessing read quality
-teaching: 10
-exercises: 5
+title: Assessing read quality  
+teaching: 10  
+exercises: 5  
 questions:
-- "How can I describe the quality of my data?"
+- "How can I describe the quality of my data?"  
 objectives:
 - "Explain how a FASTQ file encodes per-base quality scores."
 - "Interpret a FastQC plot summarizing per-base quality across all reads."
