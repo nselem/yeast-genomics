@@ -3,7 +3,7 @@ title: "Variant Calling Workflow"
 teaching: 35  
 exercises: 25  
 questions:
-- "How do I find sequence variants between my sample and a reference genome?"
+- "How do I find sequence variants between my sample and a reference genome?."
 objectives:
 - "Understand the steps involved in variant calling."
 - "Describe the types of data formats encountered during variant calling."
